@@ -1,0 +1,38 @@
+{
+  "title": "About Me",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique eum sed molestiae et veniam a! Saepe ea voluptates possimus asperiores molestias perspiciatis dignissimos nesciunt impedit?",
+  "info": [
+    {
+      "fieldName": "Name",
+      "fieldValue": "Ryu Alvano"
+    },
+    {
+      "fieldName": "Phone",
+      "fieldValue": "(+62) 895 2307 7397"
+    },
+    {
+      "fieldName": "Experience",
+      "fieldValue": "1+ Years"
+    },
+    {
+      "fieldName": "Github",
+      "fieldValue": "BlvckM1nds"
+    },
+    {
+      "fieldName": "Nationality",
+      "fieldValue": "Indonesian"
+    },
+    {
+      "fieldName": "Email",
+      "fieldValue": "ryu.alvano@outlook.com"
+    },
+    {
+      "fieldName": "Freelance",
+      "fieldValue": "Available"
+    },
+    {
+      "fieldName": "Languages",
+      "fieldValue": "English, Chinese, Indonesia"
+    }
+  ]
+}

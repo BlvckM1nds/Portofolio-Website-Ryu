@@ -1,0 +1,32 @@
+{
+  "icon": "",
+  "title": "My Experiences",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique eum sed molestiae et veniam a! Saepe ea voluptates possimus asperiores molestias perspiciatis dignissimos nesciunt impedit?",
+  "items": [
+    {
+      "company": "Sinar Mas Land",
+      "position": "Data Governance",
+      "duration": "Apr 2024 - present"
+    },
+    {
+      "company": "Nuwo Medical Store",
+      "position": "Ecommerce Business Owner",
+      "duration": "Jun 2021 - present"
+    },
+    {
+      "company": "Sinar Mas Land",
+      "position": "Data Management & Reporting",
+      "duration": "Aug 2023 - Dec 2023"
+    },
+    {
+      "company": "Astra Credit Companies",
+      "position": "Data Analyst",
+      "duration": "Feb 2023 - Jul 2023"
+    },
+    {
+      "company": "Seeds",
+      "position": "Frontend Web Developer",
+      "duration": "Nov 2022 - Dec 2022"
+    }
+  ]
+}

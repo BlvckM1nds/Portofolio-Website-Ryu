@@ -1,0 +1,26 @@
+[
+  {
+    "num": "01",
+    "title": "Web Development",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur tenetur iusto nulla, rerum fugit mollitia.",
+    "href": "https://www.linkedin.com/in/ryualvano/"
+  },
+  {
+    "num": "02",
+    "title": "UI/UX Design",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur tenetur iusto nulla, rerum fugit mollitia.",
+    "href": "https://www.linkedin.com/in/ryualvano/"
+  },
+  {
+    "num": "03",
+    "title": "Data Analytics",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur tenetur iusto nulla, rerum fugit mollitia.",
+    "href": "https://www.linkedin.com/in/ryualvano/"
+  },
+  {
+    "num": "04",
+    "title": "Graphic Design",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur tenetur iusto nulla, rerum fugit mollitia.",
+    "href": "https://www.linkedin.com/in/ryualvano/"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "icon": "",
+  "title": "My Educations",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique eum sed molestiae et veniam a! Saepe ea voluptates possimus asperiores molestias perspiciatis dignissimos nesciunt impedit?",
+  "items": [
+    {
+      "institution": "Universitas Multimedia Nusantara",
+      "degree": "Bachelor Degree in Information System",
+      "duration": "Aug 2020 - Jul 2024"
+    },
+    {
+      "institution": "Bangkit Academy",
+      "degree": "Cloud Computing Cohort",
+      "duration": "Aug 2023 - Jan 2024"
+    },
+    {
+      "institution": "Sanbercode",
+      "degree": "Bootcamp ReactJS Web Frontend",
+      "duration": "Nov 2023 - Dec 2023"
+    },
+    {
+      "institution": "SMAK Penabur Bandar Lampung",
+      "degree": "Natural Science",
+      "duration": "Jun 2017 - May 2020"
+    }
+  ]
+}
