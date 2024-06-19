@@ -1,5 +1,5 @@
 import { ScrollArea } from "../ui/scroll-area";
-import experiences from "../../data/resume/experiences";
+import experiences from "../../data/resume/experiences.json";
 
 export default function Experiences() {
   return (

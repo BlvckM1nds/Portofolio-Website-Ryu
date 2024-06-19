@@ -1,5 +1,5 @@
 import { ScrollArea } from "../ui/scroll-area";
-import educations from "../../data/resume/educations";
+import educations from "../../data/resume/educations.json";
 
 export default function Educations() {
   return (

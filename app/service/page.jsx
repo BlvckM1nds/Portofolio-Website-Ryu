@@ -2,8 +2,8 @@
 
 import { motion } from "framer-motion";
 
-import services from "../../data/services";
-import ExperienceCard from "@/components/service/ExperienceCard";
+import services from "../../data/services.json";
+import ExperienceCard from "../../components/service/ExperienceCard";
 
 export default function Service() {
   return (

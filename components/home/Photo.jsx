@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 
-import fotoRyu from "../../public/ryu-alvano.png";
+import fotoRyu from "../../public/assets/ryu-alvano.png";
 
 export default function Photo() {
   return (
@@ -12,7 +12,7 @@ export default function Photo() {
         initial={{ opacity: 0 }}
         animate={{
           opacity: 1,
-          transition: { delay: 1.5, duration: 0.4, ease: "easeIn" }
+          transition: { delay: 1.6, duration: 0.4, ease: "easeIn" }
         }}
       >
         {/* Image */}

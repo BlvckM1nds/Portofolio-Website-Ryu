@@ -9,9 +9,9 @@
       "CSS",
       "JavaScript"
     ],
-    "images": "https://ryu-personal-assets.s3.ap-southeast-1.amazonaws.com/soi-shop-page.jpg",
+    "image": "https://ryu-personal-assets.s3.ap-southeast-1.amazonaws.com/soi-shop-page.jpg",
     "live": "",
-    "github": ""
+    "repository": ""
   },
   {
     "num": "02",
@@ -22,20 +22,27 @@
       "MongoDB",
       "Express",
       "React",
-      "Node.js"
+      "Node.js",
+      "TailwindCSS",
+      "Microsoft SQL Server"
     ],
-    "images": "https://ryu-personal-assets.s3.ap-southeast-1.amazonaws.com/soi-shop-page.jpg",
+    "image": "https://ryu-personal-assets.s3.ap-southeast-1.amazonaws.com/soi-shop-page.jpg",
     "live": "",
-    "github": ""
+    "repository": ""
   },
   {
     "num": "03",
     "category": "fullstack",
     "title": "Project 3",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique nemo optio, aliquid delectus eaque natus?",
-    "stack": ["React", "TypeScript", "Firebase", "Go"],
-    "images": "https://ryu-personal-assets.s3.ap-southeast-1.amazonaws.com/soi-shop-page.jpg",
+    "stack": [
+      "React",
+      "TypeScript",
+      "Firebase",
+      "Go"
+    ],
+    "image": "https://ryu-personal-assets.s3.ap-southeast-1.amazonaws.com/soi-shop-page.jpg",
     "live": "",
-    "github": ""
+    "repository": ""
   }
 ]

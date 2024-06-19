@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 import { Sheet, SheetContent, SheetTrigger } from "../ui/sheet";
 import { CiMenuFries } from "react-icons/ci";
 
-import links from "../../data/links";
+import links from "../../data/links.json";
 
 export default function MobileNavbar() {
   const currentPath = usePathname();

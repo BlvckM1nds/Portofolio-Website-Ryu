@@ -3,7 +3,7 @@
 import CountUp from "react-countup";
 import { motion } from "framer-motion";
 
-import stats from "../../data/home/stats";
+import stats from "../../data/home/stats.json";
 
 export default function Stats() {
   return (

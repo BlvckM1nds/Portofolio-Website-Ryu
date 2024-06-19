@@ -26,7 +26,8 @@ import {
   SiPowerbi,
   SiFigma,
   SiAdobephotoshop,
-  SiAdobepremierepro
+  SiAdobepremierepro,
+  SiGit
 } from "react-icons/si";
 
 export const skills =
@@ -121,6 +122,10 @@ export const skills =
     {
       "name": "TailwindCSS",
       "icon": <SiTailwindcss />
+    },
+    {
+      "name": "Git",
+      "icon": <SiGit />
     },
     {
       "name": "Tableau",

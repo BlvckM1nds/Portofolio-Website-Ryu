@@ -1,4 +1,4 @@
-import about from "../../data/resume/about";
+import about from "../../data/resume/about.json";
 
 export default function About() {
   return (
