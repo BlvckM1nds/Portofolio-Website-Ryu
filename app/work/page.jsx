@@ -41,25 +41,25 @@ export default function Work() {
               <div className="text-8xl leading-none font-extrabold text-transparent text-outline">
                 {project.num}
               </div>
-              <h2 className="text-[42px] font-bold leading-none text-white group-hover:text-accent transition-all duration-300 capitalize">
+              <h2 className="text-[42px] font-bold leading-none text-secondary group-hover:text-accent transition-all duration-300 capitalize">
                 {project.category} project
               </h2>
-              <p className="text-white/60">{project.description}</p>
+              <p className="text-secondary/60">{project.description}</p>
               <ul className="flex flex-wrap gap-3 text-lg text-primary">
                 {project.stack.map((value, index) => (
                   <li key={index} className="bg-accent px-1.5">{value}</li>
                 ))}
               </ul>
 
-              <hr className="border border-white/60" />
+              <hr className="border border-secondary/60" />
 
               {/* Buttons */}
               <div className="flex items-center gap-4">
                 <Link href={project.live}>
                   <TooltipProvider delayDuration={100}>
                     <Tooltip>
-                      <TooltipTrigger className="w-[70px] aspect-square rounded-full bg-white/5 flex justify-center items-center group">
-                        <BsArrowUpRight className="text-white text-3xl group-hover:text-accent" />
+                      <TooltipTrigger className="w-[70px] aspect-square rounded-full bg-secondary/5 flex justify-center items-center group">
+                        <BsArrowUpRight className="text-secondary text-3xl group-hover:text-accent" />
                       </TooltipTrigger>
                       <TooltipContent>
                         <p>Live project</p>
@@ -70,8 +70,8 @@ export default function Work() {
                 <Link href={project.repository}>
                   <TooltipProvider delayDuration={100}>
                     <Tooltip>
-                      <TooltipTrigger className="w-[70px] aspect-square rounded-full bg-white/5 flex justify-center items-center group">
-                        <BsGithub className="text-white text-3xl group-hover:text-accent" />
+                      <TooltipTrigger className="w-[70px] aspect-square rounded-full bg-secondary/5 flex justify-center items-center group">
+                        <BsGithub className="text-secondary text-3xl group-hover:text-accent" />
                       </TooltipTrigger>
                       <TooltipContent>
                         <p>Github repository</p>
@@ -92,15 +92,13 @@ export default function Work() {
               {projects.map((project, index) => (
                 <SwiperSlide key={index} className="w-full">
                   <div className="h-[460px] relative group flex justify-center items-center bg-pink-50/20">
-                    {/* Overlay */}
-                    <div className="absolute top-0 bottom-0 w-full h-full bg-black/10 z-10"></div>
                     {/* Image */}
                     <div>
                       <Image
                         src={project.image}
                         alt={project.title}
                         fill
-                        className="object-cover"
+                        className="object-cover shadow-md"
                       />
                     </div>
                   </div>

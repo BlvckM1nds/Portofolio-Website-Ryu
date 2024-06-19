@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply font-primary bg-primary text-white leading-loose;
+    @apply font-primary bg-primary text-secondary leading-loose;
   }
 
   .h1 {
@@ -20,10 +20,10 @@
   }
 
   .text-outline {
-    -webkit-text-stroke: 1px #fff;
+    -webkit-text-stroke: 1px #222;
   }
 
   .text-outline-hover {
-    -webkit-text-stroke: 1px #00FF99;
+    -webkit-text-stroke: 1px #CA2424;
   }
 }

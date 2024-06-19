@@ -22,7 +22,7 @@ export default function Photo() {
             opacity: 1,
             transition: { delay: 2, duration: 0.4, ease: "easeInOut" }
           }}
-          className="w-[298px] xl:w-[502px] aspect-square mix-blend-lighten absolute"
+          className="w-[298px] xl:w-[502px] aspect-square mix-blend-darken absolute"
         >
           <Image
             src={fotoRyu}
@@ -45,7 +45,7 @@ export default function Photo() {
             cx="253"
             cy="253"
             r="250"
-            stroke="#00ff99"
+            stroke="#CA2424"
             strokeWidth="4"
             strokeLinecap="round"
             strokeLinejoin="round"

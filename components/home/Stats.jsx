@@ -28,7 +28,7 @@ export default function Stats() {
                 delay={2}
                 className="text-4xl xl:text-6xl font-extrabold"
               />
-              <p className={`${text.length < 15 ? "max-w-[100px]" : "max-w-[150px]"} leading-snug text-white/80`}>{text}</p>
+              <p className={`${text.length < 15 ? "max-w-[100px]" : "max-w-[150px]"} leading-snug text-secondary/80`}>{text}</p>
             </div>
           ))}
         </motion.div>

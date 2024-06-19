@@ -16,7 +16,7 @@ export default function Home() {
             <h1 className="h1 mb-6">
               Hello I&apos;m<br /><span className="text-accent">Ryu Alvano</span>
             </h1>
-            <p className="max-w-[500px] mb-9 text-white/80">
+            <p className="max-w-[500px] mb-9 text-secondary/80">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem aspernatur quaerat id sapiente saepe facilis quisquam possimus cum? Aspernatur provident harum rem velit expedita veritatis?
             </p>
 
