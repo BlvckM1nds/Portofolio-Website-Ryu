@@ -7,7 +7,7 @@ import Stats from "../components/home/Stats";
 
 export default function Home() {
   return (
-    <section className="h-full">
+    <section className="min-h-[80vh]">
       <div className="container mx-auto h-full">
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* Text */}
@@ -31,7 +31,7 @@ export default function Home() {
                 <FiDownload className="text-xl" />
               </Button>
               <div className="mb-8 xl:mb-0">
-                <Socials containerStyles="flex gap-6" iconStyles="w-9 aspect-square border border-accent rounded-full flex justify-center items-center text-accent text-base hover:bg-accent hover:text-primary hover:transition-all duration-500" />
+                <Socials containerStyles="flex gap-6" iconStyles="w-9 aspect-square border border-accent rounded-full flex justify-center items-center text-accent text-base hover:bg-accent hover:text-primary hover:transition-all duration-300" />
               </div>
             </div>
           </div>

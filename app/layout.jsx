@@ -1,4 +1,4 @@
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "../components/common/Header";
 import Footer from "../components/common/Footer";
@@ -10,12 +10,6 @@ const jetbrainsMono = JetBrains_Mono({
   weight: ['100', '200', '300', '400', '500', '600', '700', '800'],
   variable: "--font-jetbrainsMono"
 });
-
-// const inter = Inter({
-//   subsets: ['latin'],
-//   weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'],
-//   variable: "--font-inter"
-// });
 
 export const metadata = {
   title: "Ryu Alvano",

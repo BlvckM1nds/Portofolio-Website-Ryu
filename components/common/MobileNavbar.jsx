@@ -16,7 +16,7 @@ export default function MobileNavbar() {
         <CiMenuFries className="text-[32px] text-accent" />
       </SheetTrigger>
       <SheetContent>
-        <div className="mt-32 mb-40 text-center text-2xl">
+        <div className="my-24 text-center text-2xl">
           <Link href="/">
             <h1 className="text-4xl font-semibold">
               Ryu<span className="text-accent">.</span>
